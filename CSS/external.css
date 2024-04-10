@@ -1,0 +1,14 @@
+/* h1{
+    background-color: aqua;
+    color: pink;
+    text-align: center;
+}
+p
+{
+    border: 2px solid red;
+} */
+*{
+    background-color: aqua;
+    color: pink;
+    text-align: center;
+}
